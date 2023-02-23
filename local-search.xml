@@ -4,6 +4,38 @@
   
   
   <entry>
+    <title>Vue</title>
+    <link href="/2023/02/18/Vue/"/>
+    <url>/2023/02/18/Vue/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Vue2-7"><a href="#Vue2-7" class="headerlink" title="Vue2.7"></a>Vue2.7</h1><h3 id="声明式渲染"><a href="#声明式渲染" class="headerlink" title="声明式渲染"></a>声明式渲染</h3><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs html"><span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">id</span>=<span class="hljs-string">&quot;app&quot;</span>&gt;</span><br>  &#123;&#123;message&#125;&#125;<br><span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span><br></code></pre></td></tr></table></figure><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs js"><span class="hljs-keyword">var</span> app = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Vue</span>(&#123;<br>  <span class="hljs-attr">el</span>:<span class="hljs-string">&#x27;#app&#x27;</span>,<br>  <span class="hljs-attr">data</span>:&#123;<br>    <span class="hljs-attr">message</span>:<span class="hljs-string">&quot;hello&quot;</span><br>  &#125;<br>&#125;)<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2.18自我检讨</title>
+    <link href="/2023/02/18/2-18%E8%87%AA%E6%88%91%E6%A3%80%E8%AE%A8/"/>
+    <url>/2023/02/18/2-18%E8%87%AA%E6%88%91%E6%A3%80%E8%AE%A8/</url>
+    
+    <content type="html"><![CDATA[<p>我真的是傻逼啊，登西学了就忘，然后就又要重头再学习，我是傻逼对吗</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>反省</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>测试</title>
     <link href="/2023/02/16/%E6%B5%8B%E8%AF%95/"/>
     <url>/2023/02/16/%E6%B5%8B%E8%AF%95/</url>
