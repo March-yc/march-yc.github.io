@@ -4,13 +4,58 @@
   
   
   <entry>
+    <title>权限管理系统项目</title>
+    <link href="/2023/03/09/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E9%A1%B9%E7%9B%AE/"/>
+    <url>/2023/03/09/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E9%A1%B9%E7%9B%AE/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>element</title>
+    <link href="/2023/03/09/element/"/>
+    <url>/2023/03/09/element/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Grid布局</title>
+    <link href="/2023/03/02/Grid%E5%B8%83%E5%B1%80/"/>
+    <url>/2023/03/02/Grid%E5%B8%83%E5%B1%80/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>产品经理</title>
     <link href="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/"/>
     <url>/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/</url>
     
-    <content type="html"><![CDATA[<h1 id="用户篇"><a href="#用户篇" class="headerlink" title="用户篇"></a>用户篇</h1><p>对用户的认知处于什么水平？    </p><ol><li>你能描述产品的核心用户画像吗？（考察对用户的熟悉程度以及如何去形容用户）</li><li>你能描述用户使用产品的典型行为吗？（考察用户在app上行为描述，用定量的语句描述）</li><li>你知道产品用户的分群逻辑是什么吗？（考察对用户细分的认知和细分的逻辑）</li><li>你知道不同用户群体的需求和运营方式？（考察对用户分群的理解和运营）</li></ol><p>那如果能够清晰回答以上问题，说明具备了</p><ol><li>基础用户认识、能描述用户特征的能力</li><li>使用数据模型去定义、概括用户的能力</li><li>细分的思维，挖掘特征进行分层的能力</li><li>对用户有深入理解，做分类运营的能力</li></ol><h2 id="用户感"><a href="#用户感" class="headerlink" title="用户感"></a>用户感</h2><p>用户感：收集、分析、预测用户行为的能力<br>收集：理性地去调研、收集用户信息<br>分析：去伪存真分析用户实际需求</p><h3 id="用户调研"><a href="#用户调研" class="headerlink" title="用户调研"></a>用户调研</h3><ul><li>从具象到具象 ：男性用户有多少人？</li><li>从具象到抽象 ：大学生用户对这款产品的看法是什么？</li><li>从抽象到具象 ：性格内向的人有多少人？</li><li>从抽象到抽象 ：社交达人如何评价我们的产品？</li></ul><p><strong>底层逻辑</strong><br>定性：非数据分析得结论，为什么、怎么样<br>定量：数学分析数据有多少、有多大<br>行为：用户做了啥，数据记录实际操作<br>态度：用户说了啥，用户自己来表达</p><h4 id="不同场景适用的调研方法"><a href="#不同场景适用的调研方法" class="headerlink" title="不同场景适用的调研方法"></a>不同场景适用的调研方法</h4><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/methods.png" class=""><ol><li>定量+行为 &#x3D; 数据说用户做了啥</li><li>定量+态度 &#x3D; 用户书面反馈 </li><li>定性+行为 &#x3D; 看用户做了啥</li><li>定性+态度 &#x3D; 和用户沟通</li></ol><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/1.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/2.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/3.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/4.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/5.png" class=""><h3 id="用户体系"><a href="#用户体系" class="headerlink" title="用户体系"></a>用户体系</h3><p>用户体系是用画像、标签去构建分群，根据每个分群制定策略</p><ol><li>用户画像：构建一个用户的虚拟体，达成对用户的共识（讲故事）</li><li>用户标签：以标签来描述用户，形成具象行为的用户（贴标签）</li><li>用户分群：根据特征进行分层，适合分类运营<img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/6.png" class=""></li></ol><p>例子：</p><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/7.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/8.png" class=""><h4 id="用户画像"><a href="#用户画像" class="headerlink" title="用户画像"></a>用户画像</h4><ol><li>Persona 虚拟用户画像：由感性词构成一个故事。属于比较抽象的、感性的画像。用于打造出对用户认知的共识；用于了解用户、匹配产品等宏观场景</li><li>Profile 数据用户画像：由一系列标签构成一个档案。属于比较理性、偏标签类的画像。用于标记一个、一群用户的详细信息；用于用户运营、营销等实用场景</li></ol><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/9.png" class="">]]></content>
+    <content type="html"><![CDATA[<h1 id="用户篇"><a href="#用户篇" class="headerlink" title="用户篇"></a>用户篇</h1><p>对用户的认知处于什么水平？    </p><ol><li>你能描述产品的核心用户画像吗？（考察对用户的熟悉程度以及如何去形容用户）</li><li>你能描述用户使用产品的典型行为吗？（考察用户在app上行为描述，用定量的语句描述）</li><li>你知道产品用户的分群逻辑是什么吗？（考察对用户细分的认知和细分的逻辑）</li><li>你知道不同用户群体的需求和运营方式？（考察对用户分群的理解和运营）</li></ol><p>那如果能够清晰回答以上问题，说明具备了</p><ol><li>基础用户认识、能描述用户特征的能力</li><li>使用数据模型去定义、概括用户的能力</li><li>细分的思维，挖掘特征进行分层的能力</li><li>对用户有深入理解，做分类运营的能力</li></ol><h2 id="用户感"><a href="#用户感" class="headerlink" title="用户感"></a>用户感</h2><p>用户感：收集、分析、预测用户行为的能力<br>收集：理性地去调研、收集用户信息<br>分析：去伪存真分析用户实际需求</p><h3 id="用户调研"><a href="#用户调研" class="headerlink" title="用户调研"></a>用户调研</h3><ul><li>从具象到具象 ：男性用户有多少人？</li><li>从具象到抽象 ：大学生用户对这款产品的看法是什么？</li><li>从抽象到具象 ：性格内向的人有多少人？</li><li>从抽象到抽象 ：社交达人如何评价我们的产品？</li></ul><p><strong>底层逻辑</strong><br>定性：非数据分析得结论，为什么、怎么样<br>定量：数学分析数据有多少、有多大<br>行为：用户做了啥，数据记录实际操作<br>态度：用户说了啥，用户自己来表达</p><h4 id="不同场景适用的调研方法"><a href="#不同场景适用的调研方法" class="headerlink" title="不同场景适用的调研方法"></a>不同场景适用的调研方法</h4><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/methods.png" class=""><ol><li>定量+行为 &#x3D; 数据说用户做了啥</li><li>定量+态度 &#x3D; 用户书面反馈 </li><li>定性+行为 &#x3D; 看用户做了啥</li><li>定性+态度 &#x3D; 和用户沟通</li></ol><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/1.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/2.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/3.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/4.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/5.png" class=""><h2 id="用户体系"><a href="#用户体系" class="headerlink" title="用户体系"></a>用户体系</h2><p>用户体系是用画像、标签去构建分群，根据每个分群制定策略</p><ol><li>用户画像：构建一个用户的虚拟体，达成对用户的共识（讲故事）</li><li>用户标签：以标签来描述用户，形成具象行为的用户（贴标签）</li><li>用户分群：根据特征进行分层，适合分类运营<img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/6.png" class=""></li></ol><p>例子：</p><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/7.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/8.png" class=""><h3 id="用户画像"><a href="#用户画像" class="headerlink" title="用户画像"></a>用户画像</h3><ol><li>Persona 虚拟用户画像：由感性词构成一个故事。属于比较抽象的、感性的画像。用于打造出对用户认知的共识；用于了解用户、匹配产品等宏观场景</li><li>Profile 数据用户画像：由一系列标签构成一个档案。属于比较理性、偏标签类的画像。用于标记一个、一群用户的详细信息；用于用户运营、营销等实用场景</li></ol><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/9.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/10.png" class=""><h4 id="从具象到抽象的步骤（persona）"><a href="#从具象到抽象的步骤（persona）" class="headerlink" title="从具象到抽象的步骤（persona）"></a>从具象到抽象的步骤（persona）</h4><p>需求背景 -&gt; 个体分析 -&gt; 关键特征 -&gt; 丰富细节 </p><ol><li>个体分析：关键是找到典型用户，能最大限度去代表所研究的用户<br>符合：</li></ol><ul><li>（1）产品的目标或使用用户</li><li>（2）所研究“需求”或“问题”的直接用户</li><li>（3）能代表所研究的群体</li><li>（4）是所研究的群体的均值，而非最值或极值<br>  方法：</li><li>用户访谈</li><li>调研问卷</li><li>产品行为</li><li>用户的关键特征分为：<ul><li>基础信息：是否有相似的背景？</li><li>行为信息：是否有相似的行为方式？</li><li>心理动机：是否有相似的内心思想？</li></ul></li></ul><p>具象到抽象的例子：如何增加美团骑手数量，</p><ol><li>调研个体，找到典型用户：找到收入处于中位数的骑士，了解他们的工作现状和收入情况；找到刚加入的骑手，了解他们加入的渠道、动机和原因</li><li>找到关键特征：分析他们的基础信息、行为信息、心理动机</li></ol><ul><li>基础信息：农村出身为主、90后、男性为主、大专以下、原收入低于5k</li><li>行为信息：好奇心强、熟悉手机操作、喜欢打王者、每日配送35单左右、容易月光</li><li>心理动机：不想太复杂的工作、不太喜欢坐班、希望时间自由一些、喜欢有朋友的氛围</li></ul><ol start="3"><li>丰富细节，建立有灵魂的画像<img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/11.png" class=""></li><li>验证和应用</li></ol><ul><li>用户获取<ul><li>让骑手有偿推荐、普通劳动力市场、各地的外包公司-&gt;是否有更多精准用户？</li></ul></li><li>用户运营<ul><li>电车租赁、后付费、工资结算时间快、包吃住-&gt;是否更容易转化骑手？</li></ul></li><li>更多需求<ul><li>相亲活动、社群活动、技能提升-&gt;是否让骑手更容易留存？</li></ul></li></ul><h4 id="从抽象到具象：如何将抽象概念落地应用（profile）"><a href="#从抽象到具象：如何将抽象概念落地应用（profile）" class="headerlink" title="从抽象到具象：如何将抽象概念落地应用（profile）"></a>从抽象到具象：如何将抽象概念落地应用（profile）</h4><ol><li>抽象集合persona</li><li>数据标签：数据采集、定义标签、给用户打标签</li><li>用户分群</li><li>场景应用</li></ol><h4 id="完整用户画像的构建和使用流程"><a href="#完整用户画像的构建和使用流程" class="headerlink" title="完整用户画像的构建和使用流程"></a>完整用户画像的构建和使用流程</h4><p>遇到实际情况 -&gt; 从问题中提炼用户画像 -&gt; 从用户画像中挖掘具体数据 -&gt; 实际应用场景</p><h3 id="用户标签"><a href="#用户标签" class="headerlink" title="用户标签"></a>用户标签</h3><p>用户画像是对外展示的有血有肉的一面，用户标签是以数据、逻辑支撑起整套体系<br>用户标签是用户某一维度特征的属性描述，分为</p><ul><li>静态标签：容易获得，可以作为辅助标签</li><li>动态标签：随着用户与平台持续交互，数据不断更新</li><li>组合标签：</li></ul><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/12.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/13.png" class=""><p>案例：</p><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/14.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/15.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/16.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/17.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/18.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/19.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/20.png" class=""><h4 id="用户标签体系的作用：找到对的人"><a href="#用户标签体系的作用：找到对的人" class="headerlink" title="用户标签体系的作用：找到对的人"></a>用户标签体系的作用：找到对的人</h4><p>标签打的越细，找的人更准确</p><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/21.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/22.png" class=""><h4 id="如何构建公司的标签体系"><a href="#如何构建公司的标签体系" class="headerlink" title="如何构建公司的标签体系"></a>如何构建公司的标签体系</h4><p>基本流程：</p><ol><li><p>标签体系的先决条件，三者缺一不可 </p><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/23.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/24.png" class=""></li><li><p>梳理整体业务流程</p><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/25.png" class=""></li><li><p>核心目标拆解</p><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/26.png" class=""></li><li><p>业务目标推导标签需求</p><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/27.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/28.png" class=""><img src="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/29.png" class=""></li><li><p>标签体系的应用</p></li><li><p>业务去反哺标签</p></li></ol>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>产品</tag>
+      
+    </tags>
     
   </entry>
   
@@ -25,6 +70,12 @@
     
     
     
+    <tags>
+      
+      <tag>开发</tag>
+      
+    </tags>
+    
   </entry>
   
   
@@ -37,6 +88,12 @@
     <content type="html"><![CDATA[<h1 id="Vue2-7"><a href="#Vue2-7" class="headerlink" title="Vue2.7"></a>Vue2.7</h1><h2 id="vue是什么？"><a href="#vue是什么？" class="headerlink" title="vue是什么？"></a>vue是什么？</h2><p>vue是一套用于<strong>构建用户界面</strong>的<strong>渐进式</strong>js框架<br>渐进式：vue是自底向上逐层的应用，它可以用一个轻量小巧的核心库逐步增加vue的其他插件</p><h3 id="声明式渲染"><a href="#声明式渲染" class="headerlink" title="声明式渲染"></a>声明式渲染</h3><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs html"><span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">id</span>=<span class="hljs-string">&quot;app&quot;</span>&gt;</span><br>  &#123;&#123;message&#125;&#125;<br><span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span><br></code></pre></td></tr></table></figure><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs js"><span class="hljs-keyword">var</span> app = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Vue</span>(&#123;<br>  <span class="hljs-attr">el</span>:<span class="hljs-string">&#x27;#app&#x27;</span>,<br>  <span class="hljs-attr">data</span>:&#123;<br>    <span class="hljs-attr">message</span>:<span class="hljs-string">&quot;hello&quot;</span><br>  &#125;<br>&#125;)<br></code></pre></td></tr></table></figure><h3 id="列表渲染"><a href="#列表渲染" class="headerlink" title="列表渲染"></a>列表渲染</h3><h4 id="v-for"><a href="#v-for" class="headerlink" title="v-for"></a>v-for</h4><p>用v-for基于一个数组来渲染一个列表，需要使用<code>item in items</code>形式的语法，其中items是源数组数组，item则是被迭代的数组元素的别名</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs html"><span class="hljs-tag">&lt;<span class="hljs-name">ul</span> <span class="hljs-attr">id</span>=<span class="hljs-string">&quot;demo&quot;</span>&gt;</span><br>  <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">v-for</span>=<span class="hljs-string">&quot;item in items&quot;</span> <span class="hljs-attr">:key</span>=<span class="hljs-string">&quot;item.mes&quot;</span>&gt;</span><br>    &#123;&#123; item.mes &#125;&#125;<br>  <span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span><br><span class="hljs-tag">&lt;/<span class="hljs-name">ul</span>&gt;</span><br></code></pre></td></tr></table></figure><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs js"><span class="hljs-keyword">var</span> demo=<span class="hljs-keyword">new</span> <span class="hljs-title class_">Vue</span>(&#123;<br>  <span class="hljs-attr">el</span>:<span class="hljs-string">&#x27;#demo&#x27;</span>,<br>  <span class="hljs-attr">data</span>:&#123;<br>    <span class="hljs-attr">items</span>:[<br>      &#123;<span class="hljs-attr">mes</span>:<span class="hljs-string">&#x27;foo&#x27;</span>&#125;,<br>      &#123;<span class="hljs-attr">mes</span>:<span class="hljs-string">&#x27;bar&#x27;</span>&#125;<br>    ]<br>  &#125;<br>&#125;)<br></code></pre></td></tr></table></figure>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>开发</tag>
+      
+    </tags>
     
   </entry>
   

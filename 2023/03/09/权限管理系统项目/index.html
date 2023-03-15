@@ -16,22 +16,19 @@
   <meta name="author" content="John Doe">
   <meta name="keywords" content="">
   
-    <meta name="description" content="资源文件夹Nuxt有两种资源文件夹assets和static  如果你的静态资源文件需要Webpack做构建编译处理，可以放到assets目录，否则可以放到static目录中去  具体表现就是：  （图片或字体）的尺寸小于1k的时候，它将会被转换成base-64 data URL来内联引用；否则它将被拷贝至指定的子目录（在.nuxt目录下），并被重命名（加上7位的哈希码作为版本标识）以实现更好的缓">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Nuxt">
-<meta property="og:url" content="http://example.com/2023/02/23/Nuxt/index.html">
+    <meta property="og:type" content="article">
+<meta property="og:title" content="权限管理系统项目">
+<meta property="og:url" content="http://example.com/2023/03/09/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E9%A1%B9%E7%9B%AE/index.html">
 <meta property="og:site_name" content="Evelyn">
-<meta property="og:description" content="资源文件夹Nuxt有两种资源文件夹assets和static  如果你的静态资源文件需要Webpack做构建编译处理，可以放到assets目录，否则可以放到static目录中去  具体表现就是：  （图片或字体）的尺寸小于1k的时候，它将会被转换成base-64 data URL来内联引用；否则它将被拷贝至指定的子目录（在.nuxt目录下），并被重命名（加上7位的哈希码作为版本标识）以实现更好的缓">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2023-02-23T06:15:24.000Z">
-<meta property="article:modified_time" content="2023-03-15T00:43:09.972Z">
+<meta property="article:published_time" content="2023-03-09T03:29:05.000Z">
+<meta property="article:modified_time" content="2023-03-09T03:29:05.587Z">
 <meta property="article:author" content="John Doe">
-<meta property="article:tag" content="开发">
 <meta name="twitter:card" content="summary_large_image">
   
   
   
-  <title>Nuxt - Evelyn</title>
+  <title>权限管理系统项目 - Evelyn</title>
 
   <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
 
@@ -214,7 +211,7 @@
       <div class="banner-text text-center fade-in-up">
         <div class="h2">
           
-            <span id="subtitle" data-typed-text="Nuxt"></span>
+            <span id="subtitle" data-typed-text="权限管理系统项目"></span>
           
         </div>
 
@@ -225,8 +222,8 @@
     
       <span class="post-meta">
         <i class="iconfont icon-date-fill" aria-hidden="true"></i>
-        <time datetime="2023-02-23 14:15" pubdate>
-          2023年2月23日 下午
+        <time datetime="2023-03-09 11:29" pubdate>
+          2023年3月9日 上午
         </time>
       </span>
     
@@ -237,7 +234,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          795 字
+          0 字
         
       </span>
     
@@ -248,7 +245,7 @@
         
         
         
-          7 分钟
+          1 分钟
         
       </span>
     
@@ -294,31 +291,12 @@
         <div id="board">
           <article class="post-content mx-auto">
             <!-- SEO header -->
-            <h1 style="display: none">Nuxt</h1>
+            <h1 style="display: none">权限管理系统项目</h1>
             
             
               <div class="markdown-body">
                 
-                <h2 id="资源文件夹"><a href="#资源文件夹" class="headerlink" title="资源文件夹"></a>资源文件夹</h2><p>Nuxt有两种资源文件夹<code>assets</code>和<code>static</code></p>
-<blockquote>
-<p>如果你的静态资源文件需要Webpack做构建编译处理，可以放到assets目录，否则可以放到static目录中去</p>
-</blockquote>
-<p>具体表现就是：</p>
-<blockquote>
-<p>（图片或字体）的尺寸小于1k的时候，它将会被转换成base-64 data URL来内联引用；否则它将被拷贝至指定的子目录（在.nuxt目录下），并被重命名（加上7位的哈希码作为版本标识）以实现更好的缓存策略</p>
-</blockquote>
-<p>而static里面的资源不会做这些处理，所以引用的方式也不同：</p>
-<figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs html"><span class="hljs-comment">&lt;!-- 引用static目录下的图片 --&gt;</span><br><span class="hljs-tag">&lt;<span class="hljs-name">img</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;/image.png&quot;</span>&gt;</span><br><span class="hljs-comment">&lt;!-- 引用assets目录下经过webpack构建处理后的图片 --&gt;</span><br><span class="hljs-tag">&lt;<span class="hljs-name">img</span> <span class="hljs-attr">sec</span>=<span class="hljs-string">&quot;~/assets/image.png&quot;</span>&gt;</span><br></code></pre></td></tr></table></figure>
-
-<h3 id="别名"><a href="#别名" class="headerlink" title="别名"></a>别名</h3><p>nuxt有两种默认别名写法～和@，在2.0后～可能会出现问题 </p>
-<blockquote>
-<p>从nuxt2.0开始，～&#x2F;alias将无法在css中正确解析。必须在url CSS引用中使用～assets（没有斜杠）或@别名，如background:url(“~assets&#x2F;img.png)</p>
-</blockquote>
-<h3 id="动态src的写法"><a href="#动态src的写法" class="headerlink" title="动态src的写法"></a>动态src的写法</h3><p>正确的写法</p>
-<figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs html"><span class="hljs-tag">&lt;<span class="hljs-name">img</span> <span class="hljs-attr">:src</span>=<span class="hljs-string">&quot;require(&#x27;@/assets/img/myimg&#x27;+n+&#x27;.jpg&#x27;)&gt;</span></span><br></code></pre></td></tr></table></figure>
-<p>这个例子因为图片放在了assets里，又用了别名，所以要让webpack知道，就要使用require<br>那如果是想从vue的data中返回的话要这样写</p>
-<figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs html"><span class="hljs-tag">&lt;<span class="hljs-name">img</span> <span class="hljs-attr">:src</span>=<span class="hljs-string">&quot;item.url&quot;</span>&gt;</span><br></code></pre></td></tr></table></figure>
-<figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs js"><span class="hljs-attr">item</span>:[<br>  &#123;<br>    <span class="hljs-attr">url</span>: <span class="hljs-built_in">require</span>(<span class="hljs-string">&quot;../assests/img/index.png&quot;</span>)<br>  &#125;<br>]<br></code></pre></td></tr></table></figure>
+                
                 
               </div>
             
@@ -326,13 +304,6 @@
             <div>
               <div class="post-metas my-3">
   
-  
-    <div class="post-meta">
-      <i class="iconfont icon-tags"></i>
-      
-        <a href="/tags/%E5%BC%80%E5%8F%91/">#开发</a>
-      
-    </div>
   
 </div>
 
@@ -342,8 +313,8 @@
 
   <div class="license-box my-3">
     <div class="license-title">
-      <div>Nuxt</div>
-      <div>http://example.com/2023/02/23/Nuxt/</div>
+      <div>权限管理系统项目</div>
+      <div>http://example.com/2023/03/09/权限管理系统项目/</div>
     </div>
     <div class="license-meta">
       
@@ -355,7 +326,7 @@
       
         <div class="license-meta-item license-meta-date">
           <div>发布于</div>
-          <div>2023年2月23日</div>
+          <div>2023年3月9日</div>
         </div>
       
       
@@ -387,18 +358,12 @@
                   <article class="post-prev col-6">
                     
                     
-                      <a href="/2023/02/24/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/" title="产品经理">
-                        <i class="iconfont icon-arrowleft"></i>
-                        <span class="hidden-mobile">产品经理</span>
-                        <span class="visible-mobile">上一篇</span>
-                      </a>
-                    
                   </article>
                   <article class="post-next col-6">
                     
                     
-                      <a href="/2023/02/18/Vue/" title="Vue">
-                        <span class="hidden-mobile">Vue</span>
+                      <a href="/2023/03/09/element/" title="element">
+                        <span class="hidden-mobile">element</span>
                         <span class="visible-mobile">下一篇</span>
                         <i class="iconfont icon-arrowright"></i>
                       </a>
